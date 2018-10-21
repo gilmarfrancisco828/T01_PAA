@@ -1,0 +1,16 @@
+\contentsline {section}{\numberline {1}Introdu\IeC {\c c}\IeC {\~a}o}{3}{section.1}
+\contentsline {section}{\numberline {2}Bubblesort Original}{4}{section.2}
+\contentsline {section}{\numberline {3}Bubblesort Melhorado}{4}{section.3}
+\contentsline {section}{\numberline {4}Quicksort}{5}{section.4}
+\contentsline {section}{\numberline {5}Mergesort}{6}{section.5}
+\contentsline {section}{\numberline {6}Heapsort}{6}{section.6}
+\contentsline {section}{\numberline {7}Insertionsort}{7}{section.7}
+\contentsline {section}{\numberline {8}ShellSort}{7}{section.8}
+\contentsline {section}{\numberline {9}Selectionsort}{8}{section.9}
+\contentsline {section}{\numberline {10}M\IeC {\'e}todo}{9}{section.10}
+\contentsline {subsection}{\numberline {10.1}Hardware e Software utilizados nos testes Experimentais}{9}{subsection.10.1}
+\contentsline {section}{\numberline {11}Resultados Experimentais}{10}{section.11}
+\contentsline {subsection}{\numberline {11.1}Entradas Aleat\IeC {\'o}rias}{10}{subsection.11.1}
+\contentsline {subsection}{\numberline {11.2}Entradas Ordenadas Crescentemente}{10}{subsection.11.2}
+\contentsline {subsection}{\numberline {11.3}Entradas Ordenadas Decrescentemente}{11}{subsection.11.3}
+\contentsline {section}{\numberline {12}Conclus\IeC {\~a}o}{13}{section.12}
